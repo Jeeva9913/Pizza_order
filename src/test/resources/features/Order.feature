@@ -19,5 +19,7 @@ Feature: Parallel Browser Execution
     Examples:
       | browser |
       | chrome  |
+      | firfox |
+      | edge  |
       
       
